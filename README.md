@@ -71,6 +71,4 @@ Building, learning, breaking things, and improving one commit at a time.
 
 ### "Great things are built one commit at a time."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
