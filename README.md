@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm RJ 👋
+# Hey, I'm Rjhay 👋
 
 ### Aspiring Full-Stack Developer
 
