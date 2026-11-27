@@ -1,12 +1,13 @@
+
 <div align="center">
 
 # Hey, I'm Rjhay 👋
 
-### Aspiring Full-Stack Developer
+### Aspiring Backend Developer | Full-Stack Learner
 
 Building, learning, breaking things, and improving one commit at a time.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rjhayyy)
 
 </div>
 
@@ -14,8 +15,8 @@ Building, learning, breaking things, and improving one commit at a time.
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning **Python, Git, and GitHub**
-- 💻 Working towards becoming a **Full-Stack Developer**
+- 🌱 Currently learning **Python**
+- 💻 Working towards becoming a **Backend Developer | Full Stack Developer**
 - 🎯 Focused on building practical projects and improving my problem-solving skills
 - 📚 Learning something new every day
 - ⚡ Consistency > Motivation
@@ -39,23 +40,28 @@ Building, learning, breaking things, and improving one commit at a time.
 
 | Technology | Status |
 |---|---|
-| HTML & CSS | 🌱 Learning |
-| Python | 🌱 Learning |
-| Git & GitHub | 🌱 Learning |
-| JavaScript | 📌 Up Next |
-| React | 🔜 Planned |
+| Git & GitHub | ✅ Fundamentals Completed |
+| Python | 🌱 Currently Learning |
+| HTML / CSS | 🔜 Planned |
+| Javascript | 🔜 Planned |
+| SQL / MySQL | 🔜 Planned |
+| PostgreSQL | 🔜 Planned |
+| JavaScript | 🔜 Planned |
 | FastAPI | 🔜 Planned |
-| MySQL / PostgreSQL | 📌 Learning / Planned |
+| React | 🔜 Planned |
+| Docker | 🔜 Planned |
 
 ---
 
 ## 🚀 Goals
 
-- [ ] Strengthen my programming fundamentals
-- [ ] Become comfortable with Git and GitHub
-- [ ] Build my first Python projects
-- [ ] Learn frontend development
-- [ ] Learn backend development
+- [x] Strengthen my Python programming fundamentals
+- [x] Learn Git and GitHub fundamentals
+- [ ] Improve problem-solving and debugging skills
+- [ ] Build independent Python projects
+- [ ] Learn SQL and database management
+- [ ] Learn backend development with FastAPI
+- [ ] Understand frontend-backend integration
 - [ ] Build and deploy full-stack applications
 - [ ] Become a job-ready developer
 
